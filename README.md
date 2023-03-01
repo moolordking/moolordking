@@ -4,3 +4,4 @@
 <h1>Oh No!</h1>
 <img src="froggy.gif" width="300px">
 <h6>"I am <i>Frederick the Frog</i>"</h6>
+<img src="https://profile-counter.glitch.me/moolordking/count.svg" />
