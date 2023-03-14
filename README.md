@@ -1,7 +1,7 @@
 <hr>
-<h1>Smart Fella,... or <i>Fart Smella</i>? 🥱</h1>
+<h1>UK based <i>Student</i>? 👨‍💻</h1>
 <hr>
 <h1>Oh No!</h1>
 <img src="froggy.gif" width="300px">
 <h6>"I am <i>Frederick the Frog</i>"</h6>
-<img src="https://profile-counter.glitch.me/moolordking/count.svg" />
+<h4>Profile visits: <br><img src="https://profile-counter.glitch.me/moolordking/count.svg" /></h4>
