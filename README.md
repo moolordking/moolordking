@@ -1,5 +1,5 @@
 <hr>
-<h1>UK based <i>Student</i>👨‍💻</h1>
+<h1>UK based <i>Student</i> 👨‍💻</h1>
 <hr>
 <h1>HELLO!</h1>
 <img src="froggy.gif" width="300px">
